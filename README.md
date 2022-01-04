@@ -2,6 +2,7 @@
 
 ## Description
 OpenPoll is a full stack anonymous communication application. OpenPoll allows users to create and vote on polls within the app, using a feed based UI.
+Final project for ECE 470 Network Client-Server Programming Class Spring 2021.
 ## Specifications
 - Must successfully login before issuing any command on the system
 
